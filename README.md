@@ -77,5 +77,7 @@ Breadfast-Task/
 **screenshots**
 
 ![Alt text](assets/images/splashScreen.png)
+
 ![Alt text](assets/images/postsScreen.png)
+
 ![Alt text](assets/images/postDetailsScreen.png)
