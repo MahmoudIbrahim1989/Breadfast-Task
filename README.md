@@ -45,6 +45,9 @@ Libraries Used
 2. axios: For making HTTP requests to fetch posts data.
 
 screenshots
+![Alt text](assets/images/splashScreen.png)
+![Alt text](assets/images/postsScreen.png)
+![Alt text](assets/images/postDetailsScreen.png)
 
 1. ./assets/images/splashScreen.png
 2. ./assets/images/postsScreen.png
