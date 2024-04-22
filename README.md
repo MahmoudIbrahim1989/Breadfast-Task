@@ -72,6 +72,7 @@ Breadfast-Task/
 **Libraries Used**
 
 1. React Navigation: For navigation within the app.
+
 2. axios: For making HTTP requests to fetch posts data.
 
 **screenshots**
