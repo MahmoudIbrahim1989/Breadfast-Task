@@ -27,16 +27,15 @@ Before running the application, make sure you have the following installed:
 
 2. Install Dependencies:
    npm install
-   
 3. Run the Application:
-   
+
    .For iOS:
-   
-     npx react-native run-ios
-   
+
+   npx react-native run-ios
+
    .yarn android
-   
-     npx react-native run-android
+
+   npx react-native run-android
 
 **Project Structure**
 
