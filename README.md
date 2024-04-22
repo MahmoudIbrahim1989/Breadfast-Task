@@ -25,15 +25,15 @@ Before running the application, make sure you have the following installed:
 1. Clone the Repository:
    git clone https://github.com/MahmoudIbrahim1989/Breadfast-Task.git
 
-2. Install Dependencies:
-   npm install
+2. Install Dependencies: npm install
+
 3. Run the Application:
 
    .For iOS:
 
    npx react-native run-ios
 
-   .yarn android
+   .For android
 
    npx react-native run-android
 
