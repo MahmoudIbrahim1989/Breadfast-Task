@@ -48,7 +48,3 @@ screenshots
 ![Alt text](assets/images/splashScreen.png)
 ![Alt text](assets/images/postsScreen.png)
 ![Alt text](assets/images/postDetailsScreen.png)
-
-1. ./assets/images/splashScreen.png
-2. ./assets/images/postsScreen.png
-3. ./assets/images/postDetailsScreen.png
